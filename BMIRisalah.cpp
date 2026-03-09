@@ -33,7 +33,7 @@ string StatusBMI(float bmi)
 int main()
 {
     float berat, tinggi, bmi;
-    
+
     InputData(berat, tinggi);
 
     bmi = HitungBMI(berat, tinggi);
